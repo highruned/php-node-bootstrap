@@ -1,0 +1,1 @@
+@%comspec% /k %~dp0\setenv
